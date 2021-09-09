@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NotePad</string>
+    <string name="about">"About"</string>
+    <string name="newnote">"New Note""</string>
+    <string name="notepadinfo">"NOTE PAD""</string>
+    <string name="nameinfo">"©2020, Ho Tin Nghia Le"</string>
+    <string name="versioninfo">"Version 1.0""</string>
+    <string name="edittitle">""</string>
+    <string name="editcontent">""</string>
+    <string name="notes_file">NotesFile.json</string>
+    <string name="titlesample">"TITLE"</string>
+    <string name="contentsample">"CONTENT"</string>
+    <string name="datesample">"DATE"</string>
+    <string name="save">"SAVE"</string>
+</resources>
